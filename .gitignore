@@ -20,3 +20,6 @@ venv/
 
 # Dataset folders
 data/
+
+# Model checkpoints and logs
+*.params
